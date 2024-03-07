@@ -1,0 +1,41 @@
+Name: Meerza Ahmed
+USC ID:  8203-5365-10
+News site crawled: https://www.nytimes.com/
+Number of threads: 16
+
+Fetch Statistics
+================
+# fetches attempted: 19999
+# fetches succeeded: 9609
+# fetches failed or aborted: 10390
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2087811
+# unique URLs extracted: 605756
+# unique URLs within News Site: 135740
+# unique URLs outside News Site: 470016
+
+Status Codes:
+=============
+200 OK: 9609
+301 Moved Permanently: 177
+302 Found: 10204
+403 Forbidden: 5
+404 Not Found: 3
+500 Internal Server Error: 1
+
+File Sizes:
+===========
+< 1KB: 5
+1KB ~ <10KB: 37
+10KB ~ <100KB: 539
+100KB ~ <1MB: 7309
+>= 1MB: 1699
+
+Content Types:
+==============
+image/png: 12
+image/svg+xml: 5
+image/webp: 24
+text/html: 9548

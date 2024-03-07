@@ -1,0 +1,52 @@
+
+**Objective: 
+    Use a webcrawler to gather metadata & download webpages from preselected news sites
+
+**Requirments: 
+    Crawling is done with a javascript library called crawler4j.
+
+
+Tasked with crawling on New York times, since USC id ends with 10
+
+**Collections :
+    The URLs attempted to fetch and saved in a file called fetch_nytimes.csv
+        * 2 columns 
+            - col 1: Urls fetched 
+            - col 2: HTTP/HTTPS status codes reieved 
+
+    Files successfully downloaded in a file called visit_nytimes.csv
+        * 4 columns 
+            - col 1: URLS successfully download
+            - col 2: size of dowmload in bytes
+            - col 3: # of outlinks found 
+            - col 4: resulting content type 
+    
+    All URls discovered or processed in anyway (including dupes) urls_newyorktimes.csv
+        * 2 columns
+            - col 1: the URLs 
+            - col 2: indicator boolean 
+                (a) OK: resides in the website 
+                (b) N_OK: points outside of te website 
+
+**Statistics Explained 
+    Fetch Statistics:
+
+    Outgoing Statistics:
+
+    Statuscode 
+
+    Filesize 
+
+    Content 
+
+**Notes 
+    1) You should modify the crawler so it outputs the above data into three separate csv files; 
+       you will use them for processing later; 
+    
+    2) all uses of NewsSite above should be replaced by the name given in the column labeled "NewsSite" Name in the table on page 1. 
+    
+    3) You should denote the units in size column of visit.csv. The best way would be to write 
+       the units that you are using in column header name and let the rest of the size data be in numbers 
+       for easier statistical analysis. The hard requirement is only to show the units clearly and correctly
+ 
+ 

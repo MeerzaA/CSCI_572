@@ -1,0 +1,52 @@
+[
+    {
+        "Title": "My Neighbor Totoro",
+        "Summary": "Two young sisters move to the countryside and encounter magical creatures.",
+        "Rating": 9.0
+    },
+    {
+        "Title": "Spirited Away",
+        "Summary": "A young girl gets trapped in a mysterious and magical world.",
+        "Rating": 9.5
+    },
+    {
+        "Title": "Akira",
+        "Summary": "In a dystopian future, a biker gang member gains psychic abilities.",
+        "Rating": 8.7
+    },
+    {
+        "Title": "Ghost in the Shell",
+        "Summary": "Cybernetic agents investigate cybercrime in a futuristic city.",
+        "Rating": 8.8
+    },
+    {
+        "Title": "Neon Genesis Evangelion",
+        "Summary": "Teenagers pilot giant mechs to protect Earth from mysterious beings.",
+        "Rating": 9.2
+    },
+    {
+        "Title": "Princess Mononoke",
+        "Summary": "A young warrior seeks to restore balance between humans and nature.",
+        "Rating": 9.1
+    },
+    {
+        "Title": "Cowboy Bebop: The Movie",
+        "Summary": "Bounty hunters chase a terrorist across the galaxy.",
+        "Rating": 8.9
+    },
+    {
+        "Title": "Perfect Blue",
+        "Summary": "A former pop idol faces psychological horror after leaving her group.",
+        "Rating": 8.6
+    },
+    {
+        "Title": "Paprika",
+        "Summary": "A device allows therapists to enter patients' dreams, leading to chaos.",
+        "Rating": 8.5
+    },
+    {
+        "Title": "Grave of the Fireflies",
+        "Summary": "Two siblings struggle to survive during World War II.",
+        "Rating": 9.3
+    }
+]
